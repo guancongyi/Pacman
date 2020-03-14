@@ -1,2 +1,2 @@
 # Pacman
-Berkeley Pacman Project
+__The Berkeley Pacman Project__ :smiley:
